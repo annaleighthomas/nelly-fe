@@ -7,7 +7,7 @@ const Footer = () => {
             <img src={Logo} alt=""/>
             <span>
                 Made with <b>React.js</b><br/>
-                Logo By <b>Absuace Design</b>
+                Logo By <b>Absauce Design</b>
             </span>
         </footer>
     )
